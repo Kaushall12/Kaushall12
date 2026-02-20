@@ -24,7 +24,7 @@ I believe in learning by building, documenting my journey, and continuously impr
 * 🖥️  See my portfolio at [🔗 Portfolio](http://kaushall12.github.io/kaushal-patel/)
 * ✉️  You can contact me at [📧 kaushalpatel1284@gmail.com]
 
-* 🧠  I'm currently learning:
+ 🧠  I'm currently learning:
 *  Linux Administration
 *  Docker & Containerization
 *  CI/CD (GitHub Actions)
@@ -32,7 +32,7 @@ I believe in learning by building, documenting my journey, and continuously impr
 *  System Design Basics
 
 
-* 💬  Ask me about 🛠 Tech Stack:
+ 💬  Ask me about 🛠 Tech Stack:
 *  Languages: Java, Python, JavaScript
 *  Frontend: HTML, CSS, React.js
 *  Backend: Node.js, Express
